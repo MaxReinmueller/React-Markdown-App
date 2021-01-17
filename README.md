@@ -4,10 +4,13 @@
 ## General info
 Takes user input, converts it to markdown, and displays a preiview.
 
+Site link: <a href="http://maxreactmarkdown.surge.sh/" target="http://maxreactmarkdown.surge.sh/"> View Site </a>
+
 ## Technologies
 * React
 * Markdown
 * Bootstrap
+* surge
 
 
 ## Features
